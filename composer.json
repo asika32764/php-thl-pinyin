@@ -1,6 +1,6 @@
 {
     "name": "asika32764/pinyin",
-    "description": "Romanization tool for Traditional Chinese - Fork to fix PHP8.1",
+    "description": "Romanization tool for Traditional Chinese - Fork to fix PHP8.2",
     "keywords": ["chinese", "bopomofo", "pinyin"],
     "license": "MIT",
     "authors": [
